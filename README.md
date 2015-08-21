@@ -15,7 +15,7 @@ There are many JSCS integrations for [Sublime Text][subl-jscs], [Vim][vim-jscs] 
 
 The alternative to these integrations is to run the binaries yourself on the command line:
 * `jscs $PATH` will do recursive checks in a directory or check a specific path. The .jscsrc rules are applied automatically.
-* `jshint $PATH` will acts the same as JSCS.
+* `jshint $PATH` acts the same as JSCS.
 
 [jshint]: http://jshint.com
 [jscs]: http://jscs.info
